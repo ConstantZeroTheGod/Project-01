@@ -13,6 +13,8 @@ So, if you're ready to **explore a whole new universe**, to be a part of somethi
 ## How to Contribute?
 First of all, we would like to express our gratitude for considering contributing to Project-01. Every contribution, big or small, helps to shape and improve the universe we're creating together.
 
+>Side Note: More detailed instructions can be found in [CONTRIBUTING](CONTRIBUTING.md)
+
 >Note: Please be aware that if you decide to contribute, you must comply with the [Code of Conduct](CODE_OF_CONDUCT.md) of the project, which ensures that everyone is treated with respect and that the project remains a safe and inclusive space for all contributors. Additionally, all contributions are subject to the terms of the license, which you can find in the [LICENSE](LICENSE.md).
 
 ### Gettings Started with contribution
