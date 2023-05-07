@@ -22,3 +22,17 @@ Follow the steps:
     `git clone https://github.com/ConstantZeroTheGod/Project-01.git`
 
 * You are all good to go!
+
+## ABOUT
+
+Project-01 is a project instantiated by @WitteDuivel (Vivek Chakravorty).
+
+This projects aims to simulate a working universe from the very beginnings. But there is a twist, I am sure no one among you has a *SUPER COMPUTER* and neither do I. That's why this universe is a text based universe.
+
+Meaning? That every event, every detail will only be by text, absolutely no imagery. If you want someone to visualize something, use text!
+
+As previously mentioned this universe is a simulation of a real universe, it will have it's own Science, it's own mathematics, galaxies, planets etc.
+
+Let your imagination be wild and free!!
+
+Your contribution is very much appreciated and I insist on you doing so! No matter how small it is. Write your story and tell everyone!
