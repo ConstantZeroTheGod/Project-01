@@ -13,9 +13,9 @@ So, if you're ready to **explore a whole new universe**, to be a part of somethi
 ## How to Contribute?
 First of all, we would like to express our gratitude for considering contributing to Project-01. Every contribution, big or small, helps to shape and improve the universe we're creating together.
 
->Side Note: More detailed instructions can be found in [CONTRIBUTING](CONTRIBUTING.md)
+>Side Note: More detailed instructions can be found in [![CONTRIBUTING](https://img.shields.io/badge/-CONTRIBUTING-blueviolet)](CONTRIBUTING.md)
 
->Note: Please be aware that if you decide to contribute, you must comply with the [Code of Conduct](CODE_OF_CONDUCT.md) of the project, which ensures that everyone is treated with respect and that the project remains a safe and inclusive space for all contributors. Additionally, all contributions are subject to the terms of the license, which you can find in the [LICENSE](LICENSE.md).
+>Note: Please be aware that if you decide to contribute, you must comply with the [![Code of Conduct](https://img.shields.io/badge/-Code%20of%20Conduct-important)](CODE_OF_CONDUCT.md) of the project, which ensures that everyone is treated with respect and that the project remains a safe and inclusive space for all contributors. Additionally, all contributions are subject to the terms of the license, which you can find in the [![LICENSE](https://img.shields.io/badge/LICENSE-CC%20BY--NC--SA%204.0-red)](LICENSE.md).
 
 ### Gettings Started with contribution
 
@@ -49,4 +49,4 @@ We want to thank you again for considering contributing to Project-01. Your help
 
 >## License
 
-This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. See the [LICENSE](LICENSE.md) file for more details.
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. See the [![LICENSE](https://img.shields.io/badge/LICENSE-CC%20BY--NC--SA%204.0-red)](LICENSE.md) file for more details.
